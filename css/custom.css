@@ -1,0 +1,35 @@
+body {
+  min-height: 200vh;
+}
+span.logo {
+  padding-left: 20px;
+  font-weight: 300;
+  text-transform: uppercase;
+}
+.brand-logo img {
+  color: white;
+  padding: 5px;
+}
+.icon {
+  font-size: 60px;
+  padding-top: 30px;
+}
+.thin-text {
+  font-weight: 300;
+  background: rgba(96,125,139,.4);
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.section-header {
+  font-weight: 300;
+}
+
+.card-content p {
+  padding-bottom: 5px;
+}
+
+.cta {
+  font-weight: 300;
+  text-shadow: 2px 2px black;
+}
